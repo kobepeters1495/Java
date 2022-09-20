@@ -15,7 +15,7 @@ public class Greeter
 // This class creates a Greeter object that displays
 // a hello message in a dialog box.
 
-import javax.swingJOptionPane;
+import javax.swing.JOptionPane;
 
 public class Greeter
 {
